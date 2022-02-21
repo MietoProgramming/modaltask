@@ -8,13 +8,13 @@
 
 ## Instalation guide:
 
-### git clone <repo-url>
+### 1. git clone [repo-url]
 
-### npm install
+### 2. npm install
 
 You have to install all packages from this project
 
-### npm start
+### 3. npm start
 
 To start this project
 
