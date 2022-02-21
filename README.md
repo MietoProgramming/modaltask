@@ -1,12 +1,12 @@
-#Export Modal recruitment task
+# Export Modal recruitment task
 
-###Tech:
+### Tech:
 
 - React
 - Styled-components
 - Fetching data
 
-##Instalation guide:
+## Instalation guide:
 
 ### git clone <repo-url>
 
